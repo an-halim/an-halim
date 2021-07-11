@@ -11,6 +11,6 @@
 
 
 <details>
-  <summary><b>![an-halim's github stats]</b></summary>
+  <summary><b>an-halim's github stats</b></summary>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=an-halim&title_color=000&text_color=000&show_icons=true&icon_color=000">
 </details>
