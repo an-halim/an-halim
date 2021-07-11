@@ -9,6 +9,5 @@
 
 ![an-halim's github stats](https://github-readme-stats.vercel.app/api?username=an-halim&title_color=000&text_color=000&show_icons=true&icon_color=000)<br>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=an-halim) <br>
-[![wakatime](https://wakatime.com/badge/github/an-halim/SYSTEM-BOOKING-HOTEL-CRUD-CPP.svg)](https://wakatime.com/badge/github/an-halim/SYSTEM-BOOKING-HOTEL-CRUD-CPP)
 
 
