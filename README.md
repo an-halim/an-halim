@@ -15,3 +15,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=an-halim&title_color=000&text_color=000&show_icons=true&icon_color=000">
 </details>
 
+<details>
+  <summary><b>an-halim's github stats</b></summary>
+    <img align="center" src="https://api.checklyhq.com/v1/badges/checks/0d76fb65-b3f4-462f-a405-65cb6a2fdaa7?style=for-the-badge&theme=default">
+</details>
+
