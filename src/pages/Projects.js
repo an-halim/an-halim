@@ -1,6 +1,7 @@
 import React, {useEffect} from 'react'
 import Navbar from '../component/Navbar'
 import DarkMode from '../function/DarkMode';
+import Footer from '../component/Footer';
 
 export default function Projects() {
     useEffect(() => {
@@ -15,6 +16,7 @@ export default function Projects() {
             <h1 className='font-bold text-xl'>Projects</h1>
             <p>Beberapa projects yang telah saya buat</p>
         </div>
+        <Footer />
     </div>
   )
 }

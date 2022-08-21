@@ -5,6 +5,7 @@ import Projects from "../pages/Projects";
 import Resume from "../pages/Resume";
 import Blogs from "../pages/Blogs";
 import Blog from "../pages/Blog";
+import Post from "../pages/Post";
 
 export default function Router(){
     return (
@@ -15,6 +16,7 @@ export default function Router(){
             <Route path="/resume" element={<Resume/>}/>
             <Route path="/blogs" element={<Blogs/>}/>
             <Route path="/blogs/:id" element={<Blog />}/>
+            <Route path="/post/:slug" element={<Post />}/>
         </Routes>
     )
 }
